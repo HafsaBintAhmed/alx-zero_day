@@ -1,1 +1,1 @@
-My first readme, so cool! Loving it.
+My first readme
